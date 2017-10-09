@@ -1,0 +1,12 @@
+package: goim
+import:
+- package: github.com/BurntSushi/toml
+  version: v0.3.0
+- package: github.com/astaxie/beego
+  version: v1.8.2
+  subpackages:
+  - logs
+- package: mj/protocal
+- package: mj/util
+- package: gopkg.in/vmihailenco/msgpack.v2
+  version: v2.9.1
