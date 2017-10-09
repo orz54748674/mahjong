@@ -1,7 +1,7 @@
 package dice
 
 import (
-	"mj/util"
+	"mahjong/util"
 )
 
 // DiceRange 骰子的范围

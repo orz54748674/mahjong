@@ -3,8 +3,8 @@ package suggest
 import (
 	"sort"
 
-	"mj/mahjong/card"
-	"mj/util"
+	"mahjong/mahjong/card"
+	"mahjong/util"
 )
 
 // MSelector 麻将选牌器

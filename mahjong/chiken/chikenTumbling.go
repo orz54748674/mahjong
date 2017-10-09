@@ -1,7 +1,7 @@
 package chiken
 
 import (
-	"mj/mahjong/wall"
+	"mahjong/mahjong/wall"
 )
 
 // AppendChikenTumbling 创建滚筒鸡

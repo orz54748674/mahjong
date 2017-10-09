@@ -3,8 +3,8 @@ package weight
 import (
 	"sort"
 
-	"mj/mahjong/card"
-	"mj/util"
+	"mahjong/mahjong/card"
+	"mahjong/util"
 )
 
 // GetCardsWeight 获取牌的权重列表

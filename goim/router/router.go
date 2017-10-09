@@ -1,15 +1,15 @@
 package router
 
 import (
-	"mj/goim/config"
-	"mj/goim/core"
+	"mahjong/goim/config"
+	"mahjong/goim/core"
 	"net"
 
-	"mj/protocal"
+	"mahjong/protocal"
 
-	messageController "mj/goim/controller/message"
-	roomController "mj/goim/controller/room"
-	userController "mj/goim/controller/user"
+	messageController "mahjong/goim/controller/message"
+	roomController "mahjong/goim/controller/room"
+	userController "mahjong/goim/controller/user"
 )
 
 // Dispatch 转化客户端的请求

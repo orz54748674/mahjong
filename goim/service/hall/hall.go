@@ -1,11 +1,11 @@
 package hall
 
 import (
-	"mj/goim/core"
+	"mahjong/goim/core"
 	"net"
 	"time"
 
-	"mj/util"
+	"mahjong/util"
 )
 
 // ListenHandShakeTimeout 监听用户连接之后，有没有及时handshake

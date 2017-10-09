@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/goim" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gopsutil" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lock" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mahjong" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/protocal" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/util" vcs="Git" />
+  </component>
+</project>

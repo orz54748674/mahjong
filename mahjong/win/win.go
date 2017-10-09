@@ -3,8 +3,8 @@ package win
 import (
 	"sort"
 
-	"mj/mahjong/card"
-	"mj/util"
+	"mahjong/mahjong/card"
+	"mahjong/util"
 )
 
 // CanWin 判断当前牌型是否是胡牌牌型(7对或4A+2B)

@@ -1,7 +1,7 @@
 package chiken
 
 import (
-	"mj/mahjong/wall"
+	"mahjong/mahjong/wall"
 )
 
 // GenChikenFB 创建前后鸡

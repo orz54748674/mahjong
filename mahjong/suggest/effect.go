@@ -3,9 +3,9 @@ package suggest
 import (
 	"sort"
 
-	"mj/mahjong/step"
-	"mj/mahjong/ting"
-	"mj/util"
+	"mahjong/mahjong/step"
+	"mahjong/mahjong/ting"
+	"mahjong/util"
 )
 
 // GetEffects 计算牌型所在的牌阶以及一类有效牌数量

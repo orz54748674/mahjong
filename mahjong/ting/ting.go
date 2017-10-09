@@ -1,9 +1,9 @@
 package ting
 
 import (
-	"mj/mahjong/card"
-	"mj/mahjong/win"
-	"mj/util"
+	"mahjong/mahjong/card"
+	"mahjong/mahjong/win"
+	"mahjong/util"
 )
 
 // CanTing 判断牌型是否可以听牌

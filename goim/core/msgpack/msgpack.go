@@ -3,7 +3,7 @@ package msgpack
 import (
 	"bytes"
 
-	"mj/util"
+	"mahjong/util"
 	msgpack "gopkg.in/vmihailenco/msgpack.v2"
 )
 

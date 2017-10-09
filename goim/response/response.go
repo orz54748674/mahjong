@@ -1,11 +1,11 @@
 package response
 
 import (
-	"mj/goim/core/msgpack"
-	"mj/goim/ierror"
+	"mahjong/goim/core/msgpack"
+	"mahjong/goim/ierror"
 
-	"mj/protocal"
-	"mj/util"
+	"mahjong/protocal"
+	"mahjong/util"
 )
 
 // GetError 返回通用错误 impacket

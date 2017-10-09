@@ -1,17 +1,17 @@
 package user
 
 import (
-	"mj/goim/core"
-	"mj/goim/core/msgpack"
-	"mj/goim/hall"
-	"mj/goim/ierror"
-	"mj/goim/response"
-	"mj/goim/user"
+	"mahjong/goim/core"
+	"mahjong/goim/core/msgpack"
+	"mahjong/goim/hall"
+	"mahjong/goim/ierror"
+	"mahjong/goim/response"
+	"mahjong/goim/user"
 	"net"
 	"time"
 
-	"mj/protocal"
-	"mj/util"
+	"mahjong/protocal"
+	"mahjong/util"
 )
 
 // HandShake 用户握手

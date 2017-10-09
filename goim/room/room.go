@@ -1,7 +1,7 @@
 package room
 
 import (
-	"mj/goim/user"
+	"mahjong/goim/user"
 	"sync"
 )
 

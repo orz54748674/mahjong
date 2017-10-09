@@ -1,9 +1,9 @@
 package chiken
 
 import (
-	"mj/mahjong/card"
-	"mj/mahjong/setting"
-	"mj/util"
+	"mahjong/mahjong/card"
+	"mahjong/mahjong/setting"
+	"mahjong/util"
 )
 
 // MChiken 鸡

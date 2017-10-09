@@ -1,15 +1,15 @@
 package room
 
 import (
-	"mj/goim/config"
-	"mj/goim/core"
-	"mj/goim/hall"
-	"mj/goim/ierror"
-	"mj/goim/response"
-	"mj/goim/room"
+	"mahjong/goim/config"
+	"mahjong/goim/core"
+	"mahjong/goim/hall"
+	"mahjong/goim/ierror"
+	"mahjong/goim/response"
+	"mahjong/goim/room"
 
-	"mj/protocal"
-	"mj/util"
+	"mahjong/protocal"
+	"mahjong/util"
 )
 
 // JoinRoom 加入房间

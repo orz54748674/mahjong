@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"net"
 
-	"mj/protocal"
-	"mj/util"
+	"mahjong/protocal"
+	"mahjong/util"
 )
 
 var (

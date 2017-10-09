@@ -1,6 +1,6 @@
 package user
 
-import "mj/util"
+import "mahjong/util"
 
 // Info 用户共享信息
 type Info struct {

@@ -1,12 +1,12 @@
 package user
 
 import (
-	"mj/goim/core"
+	"mahjong/goim/core"
 	"net"
 	"sync"
 
-	"mj/protocal"
-	"mj/util"
+	"mahjong/protocal"
+	"mahjong/util"
 )
 
 // User 用户

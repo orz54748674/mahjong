@@ -1,14 +1,14 @@
 package hall
 
 import (
-	"mj/goim/config"
-	"mj/goim/core"
-	"mj/goim/response"
-	"mj/goim/room"
-	"mj/goim/user"
+	"mahjong/goim/config"
+	"mahjong/goim/core"
+	"mahjong/goim/response"
+	"mahjong/goim/room"
+	"mahjong/goim/user"
 
-	"mj/protocal"
-	"mj/util"
+	"mahjong/protocal"
+	"mahjong/util"
 )
 
 // 定义全局变量

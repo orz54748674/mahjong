@@ -1,14 +1,14 @@
 package message
 
 import (
-	"mj/goim/config"
-	"mj/goim/core/msgpack"
-	"mj/goim/hall"
-	"mj/goim/ierror"
-	"mj/goim/response"
+	"mahjong/goim/config"
+	"mahjong/goim/core/msgpack"
+	"mahjong/goim/hall"
+	"mahjong/goim/ierror"
+	"mahjong/goim/response"
 
-	"mj/protocal"
-	"mj/util"
+	"mahjong/protocal"
+	"mahjong/util"
 )
 
 // PrivateMessage 私聊消息

@@ -3,7 +3,7 @@ package suggest
 import (
 	"testing"
 
-	"mj/mahjong/card"
+	"mahjong/mahjong/card"
 )
 
 func BenchmarkSuggestMap(b *testing.B) {

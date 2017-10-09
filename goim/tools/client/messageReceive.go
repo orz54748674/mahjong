@@ -1,13 +1,13 @@
 package main
 
 import (
-	"mj/goim/config"
-	"mj/goim/core/msgpack"
+	"mahjong/goim/config"
+	"mahjong/goim/core/msgpack"
 	"io"
 	"os"
 
-	"mj/protocal"
-	"mj/util"
+	"mahjong/protocal"
+	"mahjong/util"
 )
 
 // 接受服务端消息

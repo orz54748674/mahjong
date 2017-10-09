@@ -2,16 +2,16 @@ package main
 
 import (
 	"bufio"
-	"mj/goim/config"
-	"mj/goim/core/msgpack"
+	"mahjong/goim/config"
+	"mahjong/goim/core/msgpack"
 	"os"
 	"strconv"
 	"strings"
 	"sync"
 	"time"
 
-	"mj/protocal"
-	"mj/util"
+	"mahjong/protocal"
+	"mahjong/util"
 )
 
 // 消息号码生成器

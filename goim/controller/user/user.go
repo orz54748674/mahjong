@@ -1,12 +1,12 @@
 package user
 
 import (
-	"mj/goim/response"
+	"mahjong/goim/response"
 	"net"
 
-	"mj/protocal"
+	"mahjong/protocal"
 
-	userService "mj/goim/service/user"
+	userService "mahjong/goim/service/user"
 )
 
 // HandShake 用户握手

@@ -1,7 +1,7 @@
 package chiken
 
 import (
-	"mj/mahjong/wall"
+	"mahjong/mahjong/wall"
 )
 
 // GenChikenDraw 生成翻牌鸡

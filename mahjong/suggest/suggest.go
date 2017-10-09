@@ -1,11 +1,11 @@
 package suggest
 
 import (
-	"mj/mahjong/card"
-	"mj/mahjong/step"
-	"mj/mahjong/ting"
-	"mj/mahjong/weight"
-	"mj/util"
+	"mahjong/mahjong/card"
+	"mahjong/mahjong/step"
+	"mahjong/mahjong/ting"
+	"mahjong/mahjong/weight"
+	"mahjong/util"
 )
 
 // GetSuggest 根据当前牌型，推荐一张牌

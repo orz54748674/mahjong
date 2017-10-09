@@ -1,13 +1,13 @@
 package message
 
 import (
-	"mj/goim/config"
-	"mj/goim/core"
-	"mj/goim/response"
-	messageService "mj/goim/service/message"
+	"mahjong/goim/config"
+	"mahjong/goim/core"
+	"mahjong/goim/response"
+	messageService "mahjong/goim/service/message"
 	"net"
 
-	"mj/protocal"
+	"mahjong/protocal"
 )
 
 // PrivateMessage 私聊消息

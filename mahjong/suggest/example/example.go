@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"mj/mahjong/card"
-	"mj/mahjong/suggest"
+	"mahjong/mahjong/card"
+	"mahjong/mahjong/suggest"
 )
 
 func main() {

@@ -1,7 +1,7 @@
 package wall
 
 import (
-	"mj/util"
+	"mahjong/util"
 )
 
 // Wall 牌墙

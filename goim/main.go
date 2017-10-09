@@ -2,17 +2,17 @@ package main
 
 import (
 	"flag"
-	"mj/goim/core"
-	"mj/goim/hall"
-	"mj/goim/router"
-	hallService "mj/goim/service/hall"
-	userService "mj/goim/service/user"
+	"mahjong/goim/core"
+	"mahjong/goim/hall"
+	"mahjong/goim/router"
+	hallService "mahjong/goim/service/hall"
+	userService "mahjong/goim/service/user"
 	"io"
 	"net"
 	"runtime"
 
-	"mj/protocal"
-	"mj/util"
+	"mahjong/protocal"
+	"mahjong/util"
 )
 
 var (

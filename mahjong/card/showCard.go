@@ -3,7 +3,7 @@ package card
 import (
 	"fmt"
 
-	"mj/mahjong/fbs/Common"
+	"mahjong/mahjong/fbs/Common"
 )
 
 // ShowCard 明牌

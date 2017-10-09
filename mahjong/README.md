@@ -24,7 +24,7 @@
 * 牌墙
 
 ~~~
-import "mj/mahjong/wall"
+import "mahjong/mahjong/wall"
 
 func main() {
 	// 初始化牌墙
@@ -51,7 +51,7 @@ func main() {
 * 胡牌算法
 
 ~~~
-	import "mj/mahjong/win"
+	import "mahjong/mahjong/win"
 	
 	func main() {
 		// 手牌
@@ -67,7 +67,7 @@ func main() {
 * 听牌算法
 
 ~~~
-	import "mj/mahjong/ting"
+	import "mahjong/mahjong/ting"
 	
 	func main() {
 		// 根据手牌、弃牌计算当前牌型，所有听牌的可能
@@ -86,7 +86,7 @@ func main() {
 * 选牌算法（AI）
 
 ~~~
-	import "mj/mahjong/suggest"
+	import "mahjong/mahjong/suggest"
 	
 	func main() {
 		ms := suggest.NewMSelector()

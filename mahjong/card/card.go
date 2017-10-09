@@ -1,7 +1,7 @@
 package card
 
 import (
-	"mj/util"
+	"mahjong/util"
 )
 
 // IsSuit 是否普通牌

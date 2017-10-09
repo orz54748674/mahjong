@@ -3,8 +3,8 @@ package step
 import (
 	"sort"
 
-	"mj/mahjong/win"
-	"mj/util"
+	"mahjong/mahjong/win"
+	"mahjong/util"
 )
 
 // GetCardsStep 计算当前手牌所处牌阶

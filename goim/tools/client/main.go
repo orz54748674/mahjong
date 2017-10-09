@@ -3,11 +3,11 @@ package main
 import (
 	"flag"
 	"fmt"
-	"mj/goim/config"
+	"mahjong/goim/config"
 	"net"
 
-	"mj/protocal"
-	"mj/util"
+	"mahjong/protocal"
+	"mahjong/util"
 )
 
 var (

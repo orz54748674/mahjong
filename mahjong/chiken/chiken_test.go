@@ -5,8 +5,8 @@ import (
 
 	"reflect"
 
-	"mj/mahjong/setting"
-	"mj/mahjong/wall"
+	"mahjong/mahjong/setting"
+	"mahjong/mahjong/wall"
 )
 
 // 翻牌鸡测试用例
